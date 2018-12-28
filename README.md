@@ -1,2 +1,3 @@
-# my-portfolio
-This is my Professional Portfolio
+# Ravi Thoutam's Portfolio
+
+This is my Professional Portfolio. It uses AWS and ReactJS.
